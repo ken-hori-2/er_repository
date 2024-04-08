@@ -1,0 +1,20 @@
+2024/04/05 メモ
+
+今回のDone:
+    Transformerの理解
+
+次回Todo:
+    Transformerの理解
+    スケーラブルウェブサイトの構築（ハンズオン、githubに記載の初学者の学び方を確認）
+
+
+2024/04/09
+Done:
+    AWS Cloud Practitioner Essentials モジュール1終了
+    　- https://explore.skillbuilder.aws/learn/course/1875/play/92485/aws-cloud-practitioner-essentials-japanese-ri-ben-yu-shi-xie-ban
+
+Todo:
+    1. 上記の続き(Cloud Practitioner)
+    2. サーベス別資料集(Black Belt)
+    3. VPC, EC2, ELB, DB(RDS?)などを活用してクラウド構築し、DNNモデル(Transformer)をクラウドにデプロイ
+
