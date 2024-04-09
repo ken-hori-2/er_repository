@@ -1,7 +1,7 @@
 2024/04/10
 
 Done:
-  AWS Cloud Practitioner モジュール2
+  AWS Cloud Practitioner モジュール2 / EC2料金まで終了
 
 Todo:
-  あとで追記
+  上記のEC2のスケーリングからやる
