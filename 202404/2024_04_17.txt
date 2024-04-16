@@ -5,7 +5,7 @@
   上記のモジュール3
 
 # Learning
-  基本的にEC2 × Auto Scaling × Load Balancer
+  基本的な構成 ...  (VPC ×) EC2 × Auto Scaling × Load Balancer (× Data Base)
   > オプション ...  (× Amazon Simple Queue Service (Amazon SQS) で疎結合にする＝マイクロサービス化 × Amazon Simple Notification Service (Amazon SNS) でサブスクライバーに通知)
 
   AWS Lambda なら自身のコードをデプロイするだけで、あるトリガーによって起動して使える
