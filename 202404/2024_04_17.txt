@@ -1,0 +1,15 @@
+# DONE
+  AWS Cloud Plactitioner モジュール2完了
+
+# 次回TODO
+  上記のモジュール3
+
+# Learning
+  基本的にEC2 × Auto Scaling × Load Balancer
+  > オプション ...  (× Amazon Simple Queue Service (Amazon SQS) で疎結合にする＝マイクロサービス化 × Amazon Simple Notification Service (Amazon SNS) でサブスクライバーに通知)
+
+  AWS Lambda なら自身のコードをデプロイするだけで、あるトリガーによって起動して使える
+  > 使用量も実行時間に基づくので最小限に抑えられそう
+  > 業務関連のアプリもまずはLambdaでデプロイして使ってみて、必要ならEC2を使う方向性でもいいかも
+
+  コンテナを活用するなら、ECSやEKSを用いる
