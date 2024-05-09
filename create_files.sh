@@ -1,13 +1,13 @@
 #!/bin/bash
 
-mkdir -p 202404/{plan,result}
+mkdir -p 202405/{plan,result}
 
-for day in {01..30}
+for day in {01..31}
 do
   if [ $day -lt 10 ]; then
-    touch 202404/2024_04_0$day.txt
+    touch 202405/2024_05_0$day.txt
   else
-    touch 202404/2024_04_$day.txt
+    touch 202405/2024_05_$day.txt
   fi
 done
 
